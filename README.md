@@ -1,5 +1,5 @@
 # PROJECT-6._Сегментация_клиентов_онлайн-магазина
-<p align="right">
+<p align="center">
       <img src="https://github.com/exelero565/DS_Project_6/assets/97280394/a4a05833-eea2-4ba8-970d-0f3bbb7e158f" 
       width="300">
 </p>
